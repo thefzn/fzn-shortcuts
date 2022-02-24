@@ -1,0 +1,11 @@
+{
+  "name": "fzn-shortcuts",
+  "version": "1.0.11",
+  "description": "Just some shortcuts to execute repetitive commands faster  ",
+  "scripts": {},
+  "author": "Pedro Carrazco<fzn.webdesign@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "fzn": "bin/fzn.sh"
+  }
+}
